@@ -51,7 +51,7 @@ height: 450px;text-align: center;justify-content: center;margin-top: 20px;}
 
 .orden-8{width: 280px;height: 280px;}
 
-.orden-10{display: flex;flex-direction: row; width: auto;height: 500px;align-items: center;margin: 0.9em;justify-content: center;}
+.orden-10{display: flex;flex-direction: row; width: auto;height: 300px;align-items: center;margin: 0.9em;justify-content: center;}
 
 
 .orden-11{width: 320px; height: 350px;align-items: center; justify-content: center;}
@@ -107,7 +107,7 @@ flex-direction: column;width: auto; background-color: rgb(16, 16, 16);color: rgb
 }
 
 .orden-17{width: 400px;}
-@media(max-width:960px){.orden-17{width: 250px; justify-content:center;align-items: center;}
+@media(max-width:960px){.orden-17{width: 250px;}
 }
 
 .formato-23{display: flex;align-items: center;justify-content: center;height: 100px;background-color: rgb(222, 209, 33);text-align: center;color: rgb(0, 0, 0);}
@@ -122,7 +122,7 @@ flex-direction: column;width: auto; background-color: rgb(16, 16, 16);color: rgb
 
 .inicio-4{background-color: rgb(81, 211, 0);text-align: center; background-color: aliceblue;margin: 0%;}
 
-.inicio-5{margin: 0%;width:400px ;}
+.inicio-5{margin: 0%;width:370px ;}
 
 .inicio-6{background-color: rgb(251, 251, 251);margin: 0%;}
 
@@ -130,4 +130,4 @@ flex-direction: column;width: auto; background-color: rgb(16, 16, 16);color: rgb
 
 .inicio-8{background-color: rgb(210, 201, 30);margin: 0%;height: 40px; display: flex; justify-content: center;align-items: center;}
 
-.inicio-9{margin: 0%;width:400px ;}
+.inicio-9{margin: 0%;width:370px ;}
