@@ -56,7 +56,7 @@ height: 450px;text-align: center;justify-content: center;margin-top: 20px;}
 
 .orden-11{width: 320px; height: 350px;align-items: center; justify-content: center;}
 
-.orden-12{width: 320px; height: 200px;text-align: center; margin-top: 30px;margin: 0.9em;background-color: blueviolet;border-radius: 0.3em;align-items: center;justify-content: center;display: flex;color: aliceblue;}
+.orden-12{width: auto; height: 180px;text-align: center; margin-top: 30px;margin: 0.9em;background-color: rgb(226, 223, 43);border-radius: 0.3em;align-items: center;justify-content: center;display: flex;color: rgb(0, 0, 0);}
 @media(max-width:960px){.orden-12{display: flex;justify-content: center;align-items: center;}}
 
 @media(max-width:960px){.orden-10{display: flex;flex-direction: column;width:auto;justify-content: center;}}
@@ -66,7 +66,7 @@ height: 450px;text-align: center;justify-content: center;margin-top: 20px;}
 
 
 .orden-14{display: flex;text-align: center;justify-content: flex-center;
-flex-direction: column;width: auto; background-color: rgb(70, 252, 115);color: rgb(255, 255, 255);}
+flex-direction: column;width: auto; background-color: rgb(16, 16, 16);color: rgb(255, 255, 255);}
 
 
 .formato-15{display: flex;flex-direction: column;}
@@ -110,7 +110,7 @@ flex-direction: column;width: auto; background-color: rgb(70, 252, 115);color: r
 @media(max-width:960px){.orden-17{width: 250px; justify-content:center;align-items: center;}
 }
 
-.formato-23{display: flex;align-items: center;justify-content: center;height: 100px;background-color: fuchsia;text-align: center;}
+.formato-23{display: flex;align-items: center;justify-content: center;height: 100px;background-color: rgb(222, 209, 33);text-align: center;color: rgb(0, 0, 0);}
 
 
 
@@ -128,6 +128,6 @@ flex-direction: column;width: auto; background-color: rgb(70, 252, 115);color: r
 
 .inicio-7{width: 300px;}
 
-.inicio-8{background-color: chocolate;margin: 0%;height: 40px; display: flex; justify-content: center;align-items: center;}
+.inicio-8{background-color: rgb(210, 201, 30);margin: 0%;height: 40px; display: flex; justify-content: center;align-items: center;}
 
 .inicio-9{margin: 0%;width:400px ;}
